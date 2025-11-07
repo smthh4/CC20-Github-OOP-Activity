@@ -37,6 +37,6 @@ program-collection/
 ```
 ---
 ## 📚 Student Instructions
-For the detailed workflow, open **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)**.  
-For quick terminal commands, open **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)**.
+- For the detailed workflow, open **[STUDENT_GUIDE.md](STUDENT_GUIDE.md)**.   
+- For quick terminal commands, open **[QUICK_REFERENCE.md](QUICK_REFERENCE.md)**.
 ---
