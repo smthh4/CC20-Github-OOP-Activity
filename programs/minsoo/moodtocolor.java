@@ -2,6 +2,15 @@ package programs.minsoo;
 import java.util.Scanner;
 import core.ProgramInterface;
 
+/**
+ * Mood to Color Program
+ * This program asks the user how they feel today, and based on their
+ * mood selection, it prints a suggested color and a short phrase that represents their emotion.
+ *
+ * Author: Min Soo
+ * Description: Describes user mood to a color as well as an attached phrase based on the color.
+ */
+
 public class moodtocolor implements ProgramInterface {
     public String getName() {
         return "Mood to Color";
